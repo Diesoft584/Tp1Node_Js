@@ -1,0 +1,70 @@
+     [
+        {
+            "id": 1,
+            "name": "Sirius",
+            "type": "Estrella binaria, Secuencia Principal (tipo A1V)",
+            "distance": "8.6 años luz",
+            "mass": "2.02 masas solares",
+            "radius": "1.711 radios solares",
+            "temperature": "9,940 K",
+            "luminosity": "25.4 luminosidades solares",
+            "age": "200-300 millones de años",
+            "composition": {
+                "hydrogen": "71%",
+                "helium": "27%",
+                "otros_elementos": "2%"
+            },
+            "stellar_history": "Sirius es una de las estrellas más brillantes en el cielo nocturno y es una estrella binaria compuesta por Sirius A y Sirius B. Es una estrella blanca de la secuencia principal que ha consumido la mayor parte de su hidrógeno y se encuentra en una etapa avanzada de su vida."
+        },
+        {
+            "id": 2,
+            "name": "Alfa Centauri",
+            "type": "Estrella binaria, Secuencia Principal (tipo G2V)",
+            "distance": "4.37 años luz",
+            "mass": "1.1 masas solares",
+            "radius": "1.227 radios solares",
+            "temperature": "5,772 K",
+            "luminosity": "1.519 luminosidades solares",
+            "age": "4.85 mil millones de años",
+            "composition": {
+                "hydrogen": "71.1%",
+                "helium": "27.1%",
+                "otros_elementos": "1.8%"
+            },
+            "stellar_history": "Alfa Centauri es un sistema estelar triple que incluye a Alfa Centauri A, Alfa Centauri B y Proxima Centauri. Alfa Centauri A y B son estrellas similares al Sol en la secuencia principal, mientras que Proxima Centauri es una enana roja. Es el sistema estelar más cercano al sistema solar."
+        },
+        {
+            "id": 3,
+            "name": "Betelgeuse",
+            "type": "Supergigante roja (tipo M1-2Ia)",
+            "distance": "640 años luz",
+            "mass": "20 masas solares",
+            "radius": "1,180 radios solares",
+            "temperature": "3,600 K",
+            "luminosity": "100,000 luminosidades solares",
+            "age": "8-10 millones de años",
+            "composition": {
+                "hydrogen": "85%",
+                "helium": "13%",
+                "otros_elementos": "2%"
+            },
+            "stellar_history": "Betelgeuse es una supergigante roja en la constelación de Orión. Es una de las estrellas más grandes conocidas y está en las últimas etapas de su vida. Se espera que colapse en una supernova en algún momento en el futuro."
+        },
+        {
+            "id": 4,
+            "name": "Canopus",
+            "type": "Gigante luminosa (tipo F0Ib)",
+            "distance": "310 años luz",
+            "mass": "8-9 masas solares",
+            "radius": "71 radios solares",
+            "temperature": "7,300 K",
+            "luminosity": "13,600 luminosidades solares",
+            "age": "8-10 millones de años",
+            "composition": {
+                "hydrogen": "67%",
+                "helium": "31%",
+                "otros_elementos": "2%"
+            },
+            "stellar_history": "Canopus es una gigante luminosa en la constelación de Carina. Es una de las estrellas más brillantes en el cielo nocturno y se encuentra en una etapa avanzada de su evolución estelar."
+        }
+    ]
